@@ -39,5 +39,5 @@ Created custom fields for Spending Level and Unit Cost Category.
 # Key Insights
 Electronics and Beauty categories dominate high-value transactions.
 Customers aged 40+ contribute significantly to overall revenue.
-High-value transactions (> $1000) are concentrated among fewer customers, indicating potential for loyalty programs.
+High-value transactions (> 1000) are concentrated among fewer customers, indicating potential for loyalty programs.
 Price segmentation reveals that most products fall into the Moderate range, but Expensive items drive revenue spikes.
